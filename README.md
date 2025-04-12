@@ -1,5 +1,7 @@
 ﻿# Laboratory-Work-Android-Chat-Library
 
+https://github.com/user-attachments/assets/af10a68b-b05b-4324-a2f2-cd3a40bf8fb7
+
 ## 📦 Установка
 
 Добавь репозиторий GitHub Packages в `settings.gradle.kts`:
